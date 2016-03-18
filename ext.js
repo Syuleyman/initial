@@ -1,0 +1,1 @@
+document.write("zdravei 2");
